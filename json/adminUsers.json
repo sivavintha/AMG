@@ -1,0 +1,12 @@
+{
+    "name": "Vinoth",
+    "emailId": "sivavintha@yahoo.co.in",
+    "mobileNumber": "9677535702",
+    "mobileNumberCountryCode": "+91",
+    "phoneNumber": "",
+    "phoneNumberCountryCode": "",
+    "password": "Vinoth87$",
+    "userRole": "Admin",
+    "isActive": true,
+    "currentUser": "Admin"     
+}

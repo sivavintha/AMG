@@ -1,0 +1,9 @@
+{
+    "port": 3000,       
+    "db": "mongodb://localhost:27017,localhost:27018,localhost:27019/africandollar?replicaSet=rs0",
+    "privateKey": "somePrivateKey",
+    "emailID": "",
+    "emailPassword": "",
+    "emailHost": "",
+    "emailPort": ""    
+}
